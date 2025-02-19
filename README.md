@@ -4,4 +4,5 @@
 Имя: Никита
 Инициалы: Н.О. Жуков
 Группа: ИСП-421ИР
-(c772ab03-b78b-4bad-ae01-bfae85894b3.png)
+
+![Мемчик](https://avatars.mds.yandex.net/i?id=9f24eace244c0bfb2e1d6cee00fb232096702298-5313814-images-thumbs&n=13)
